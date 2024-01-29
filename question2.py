@@ -5,7 +5,7 @@ def question2_1():
 
 def question2_2():
     # answer depends on if you count reversing as negative speed
-    answer = ['continuous','quantitative','interval or ratio']
+    answer = ['continuous','quantitative','ratio']
     return answer
 
 def question2_3():
