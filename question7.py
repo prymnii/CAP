@@ -13,4 +13,4 @@ def question7_3():
     bi, ei are floats or 'infinity'. 
     """
     answer = [(0,3),(3,4),(4,5),(5,'infinity')]
-    return answer 
+    return answer
