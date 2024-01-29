@@ -1,20 +1,22 @@
 def question2_1():
     # answer = ['string', 'string', 'string']
-    answer = ['quantitative','ratio','N/A']
+    answer = ['discrete','quantitative','ratio']
     return answer
 
 def question2_2():
-    answer = ['quantitative','interval or ratio','answer depends on if you count reversing as negative speed']
+    # answer depends on if you count reversing as negative speed
+    answer = ['continuous','quantitative','interval or ratio']
     return answer
 
 def question2_3():
-    answer = ['quantitative','ratio','measured as a ratio to the threshold of human hearing']
+    # measured as a ratio to the threshold of human hearing
+    answer = ['discrete','quantitative','ratio']
     return answer 
 
 def question2_4():
-    answer = ['qualitative','ordinal','N/A' ]
+    answer = ['discrete','qualitative','ordinal']
     return answer
 
 def question2_5():
-    answer = ['qualitative', 'nominal', 'N/A']
+    answer = ['discrete','qualitative', 'nominal']
     return answer
