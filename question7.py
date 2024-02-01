@@ -12,5 +12,5 @@ def question7_3():
     The representation of inifinity is 'infinity'. 
     bi, ei are floats or 'infinity'. 
     """
-    answer = [(3,'infinity'),(3,4),(4,5),(5,'infinity')]
+    answer = [(2,'-infinity'),(2,4),(4,5),(5,'infinity')]
     return answer
